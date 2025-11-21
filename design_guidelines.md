@@ -1,8 +1,8 @@
-# MAINTelligence Consulting Website - Design Guidelines
+# On the Go Maintenance Consulting Website - Design Guidelines
 
 ## Design Approach
 
-**Selected Framework**: Professional B2B SaaS aesthetic drawing from Stripe's clarity, IBM Carbon's industrial credibility, and Salesforce's enterprise polish. This creates trust while maintaining modern sophistication suitable for manufacturing decision-makers.
+**Selected Framework**: Professional B2B SaaS aesthetic drawing from Stripe's clarity, IBM Carbon's industrial credibility, and Salesforce's enterprise polish. This creates trust while maintaining modern sophistication suitable for paper and pulp mill decision-makers.
 
 **Core Principles**:
 - Industrial credibility through clean, authoritative design
@@ -96,13 +96,13 @@
 ## Images
 
 **Hero Image**: 
-Large, professional photo of a modern factory floor or maintenance technician using tablet/digital device near industrial equipment. Should convey reliability, technology, and expertise. Full-width, hero height (70vh to 85vh).
+Large, professional photo of a paper mill production facility or maintenance technician using tablet/digital device near paper manufacturing equipment. Should convey reliability, technology, and expertise specific to paper and pulp operations. Full-width, hero height (70vh to 85vh).
 
 **Case Study Images**:
-Before/after facility photos, screenshots of MAINTelligence dashboard, team collaboration photos. Minimum 2-3 case study visuals showing real implementations.
+Paper and pulp mill facility photos, screenshots of automated reporting dashboards, maintenance tracking interfaces. Minimum 2-3 case study visuals showing real implementations in paper/pulp mills.
 
 **Feature Section Graphics**:
-Optional icons or illustrations representing: preventive maintenance, route optimization, digital checklists, reliability analytics. Clean, technical style.
+Optional icons or illustrations representing: automated reporting, compliance dashboards, route adherence tracking, cross-departmental communication, maintenance tracking. Clean, technical style.
 
 **Background Elements**:
 Subtle diagonal lines or geometric patterns in section backgrounds to add industrial aesthetic without distraction.

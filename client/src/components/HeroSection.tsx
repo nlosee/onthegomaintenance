@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button';
 import { useLanguage } from '@/contexts/LanguageContext';
-import heroImage from '@assets/generated_images/factory_maintenance_technician_with_tablet.png';
+import heroImage from '@assets/generated_images/paper_mill_maintenance_technician.png';
 
 export function HeroSection() {
   const { t } = useLanguage();

@@ -12,9 +12,9 @@ export const translations = {
       scheduleConsultation: 'Schedule Consultation'
     },
     hero: {
-      title: 'Transform Factory Reliability with',
-      titleHighlight: 'MAINTelligence',
-      subtitle: 'Expert implementation of Operator Basic Care routes that reduce downtime, improve equipment reliability, and deliver measurable ROI for manufacturing operations.',
+      title: 'Transform Paper & Pulp Mill Reliability with',
+      titleHighlight: 'On the Go Maintenance',
+      subtitle: 'Expert implementation of Operator Basic Care routes with automated reporting and real-time dashboards that reduce downtime, improve equipment reliability, and deliver measurable ROI for paper and pulp mill operations.',
       ctaPrimary: 'Schedule Consultation',
       ctaSecondary: 'View Case Studies'
     },
@@ -26,27 +26,27 @@ export const translations = {
     },
     obc: {
       title: 'What are Operator Basic Care Routes?',
-      subtitle: 'A proven methodology for preventive maintenance excellence',
-      description: 'OBC routes empower operators to perform routine inspections and basic maintenance tasks on their equipment. This proactive approach catches issues early, reduces unexpected downtime, and extends equipment lifespan.',
-      keyPoint1: 'Daily operator-led equipment inspections',
-      keyPoint2: 'Digital checklists and standardized procedures',
-      keyPoint3: 'Real-time issue tracking and escalation',
-      keyPoint4: 'Data-driven insights for continuous improvement'
+      subtitle: 'A proven methodology for preventive maintenance excellence in paper and pulp mills',
+      description: 'OBC routes empower operators to perform routine inspections and basic maintenance tasks on critical paper and pulp mill equipment. This proactive approach catches issues early, reduces unexpected downtime, and extends equipment lifespan across digesters, recovery boilers, paper machines, and pulping systems.',
+      keyPoint1: 'Daily operator-led equipment inspections with mobile access',
+      keyPoint2: 'Automated reporting and real-time compliance dashboards',
+      keyPoint3: 'Enhanced route adherence tracking and departmental communication',
+      keyPoint4: 'Comprehensive maintenance tracking across all mill operations'
     },
     benefits: {
-      title: 'Key Benefits of MAINTelligence Implementation',
+      title: 'Key Benefits of On the Go Maintenance Implementation',
       benefit1Title: 'Reduced Downtime',
-      benefit1Desc: 'Early detection prevents catastrophic failures and unplanned shutdowns',
-      benefit2Title: 'Improved Reliability',
-      benefit2Desc: 'Consistent maintenance practices extend equipment life and performance',
-      benefit3Title: 'Lower Costs',
-      benefit3Desc: 'Preventive care reduces emergency repairs and spare parts expenses',
-      benefit4Title: 'Digital Transformation',
-      benefit4Desc: 'Paperless workflows and real-time data visibility across operations',
-      benefit5Title: 'Operator Empowerment',
-      benefit5Desc: 'Front-line teams take ownership of equipment health and performance',
-      benefit6Title: 'Compliance Ready',
-      benefit6Desc: 'Automated documentation meets regulatory and audit requirements'
+      benefit1Desc: 'Early detection prevents catastrophic failures and unplanned shutdowns on critical paper and pulp equipment',
+      benefit2Title: 'Automated Reporting',
+      benefit2Desc: 'Real-time automated reports and interactive dashboards provide instant visibility into mill operations',
+      benefit3Title: 'Compliance & Adherence',
+      benefit3Desc: 'Increased route adherence and compliance tracking ensures consistent execution across all shifts',
+      benefit4Title: 'Enhanced Communication',
+      benefit4Desc: 'Better cross-departmental communication and maintenance tracking eliminates information silos',
+      benefit5Title: 'Data Dashboards',
+      benefit5Desc: 'Comprehensive dashboards visualize trends, KPIs, and performance metrics for data-driven decisions',
+      benefit6Title: 'Lower Costs',
+      benefit6Desc: 'Preventive care reduces emergency repairs, spare parts expenses, and production losses'
     },
     process: {
       title: 'Our Implementation Process',
@@ -68,39 +68,39 @@ export const translations = {
       step5Duration: 'Ongoing'
     },
     caseStudies: {
-      title: 'Proven Results Across Industries',
-      case1Industry: 'Automotive Manufacturing',
-      case1Challenge: 'High unplanned downtime on assembly lines',
-      case1Solution: 'Implemented OBC routes on 45 critical machines with digital checklists',
-      case1Result: '67% reduction in unplanned downtime, $2.3M annual savings',
-      case1Quote: 'MAINTelligence transformed how our operators engage with equipment maintenance.',
-      case1Author: 'Plant Manager, Major Automotive OEM',
-      case2Industry: 'Food & Beverage Processing',
-      case2Challenge: 'Inconsistent preventive maintenance execution',
-      case2Solution: 'Digital OBC routes with mobile access and automated escalation workflows',
-      case2Result: '89% on-time completion rate, 34% fewer emergency repairs',
-      case2Quote: 'The ROI was evident within the first quarter of implementation.',
-      case2Author: 'Maintenance Director, Global Food Producer',
+      title: 'Proven Results in Paper & Pulp Mills',
+      case1Industry: 'Kraft Paper Mill',
+      case1Challenge: 'Poor route adherence and communication gaps between shifts on paper machines',
+      case1Solution: 'Implemented OBC routes with automated reporting dashboards and mobile checklists across all production lines',
+      case1Result: '85% increase in route compliance, 52% reduction in unplanned downtime, improved cross-shift communication',
+      case1Quote: 'On the Go Maintenance transformed how our operators track and communicate equipment issues. The automated reports give us complete visibility.',
+      case1Author: 'Maintenance Manager, Major Kraft Paper Producer',
+      case2Industry: 'Pulp Mill Operations',
+      case2Challenge: 'Inconsistent maintenance tracking across digesters and recovery boilers',
+      case2Solution: 'Digital OBC routes with real-time dashboards, automated compliance reporting, and departmental tracking',
+      case2Result: '78% improvement in route adherence, 41% fewer emergency repairs, enhanced departmental coordination',
+      case2Quote: 'The dashboarding capabilities and automated reporting have completely changed our maintenance culture. We now have data-driven conversations.',
+      case2Author: 'Operations Director, Integrated Pulp & Paper Mill',
       readMore: 'Read Full Case Study'
     },
     contact: {
-      title: 'Ready to Transform Your Operations?',
-      subtitle: 'Schedule a consultation to discuss your factory\'s reliability goals',
+      title: 'Ready to Transform Your Mill Operations?',
+      subtitle: 'Schedule a consultation to discuss your paper or pulp mill\'s reliability and compliance goals',
       formTitle: 'Request a Consultation',
       nameLabel: 'Full Name',
       namePlaceholder: 'John Smith',
-      companyLabel: 'Company Name',
-      companyPlaceholder: 'Your Company',
+      companyLabel: 'Mill Name',
+      companyPlaceholder: 'Your Mill',
       emailLabel: 'Email Address',
-      emailPlaceholder: 'john@company.com',
+      emailPlaceholder: 'john@papermill.com',
       phoneLabel: 'Phone Number',
       phonePlaceholder: '+1 (555) 000-0000',
       languageLabel: 'Preferred Language',
-      messageLabel: 'Tell us about your needs',
-      messagePlaceholder: 'Describe your current challenges and goals...',
+      messageLabel: 'Tell us about your mill',
+      messagePlaceholder: 'Describe your current maintenance challenges, compliance needs, and goals...',
       submitButton: 'Request Consultation',
       infoTitle: 'Contact Information',
-      infoEmail: 'info@maintelligence.com',
+      infoEmail: 'info@onthegomaintenance.com',
       infoPhone: '+1 (800) 555-0100',
       infoHours: 'Monday - Friday, 8am - 6pm EST'
     },
@@ -120,7 +120,7 @@ export const translations = {
       newsletterDesc: 'Get insights on reliability maintenance',
       newsletterPlaceholder: 'Enter your email',
       subscribe: 'Subscribe',
-      copyright: '© 2024 MAINTelligence. All rights reserved.'
+      copyright: '© 2024 On the Go Maintenance. All rights reserved.'
     }
   },
   es: {
@@ -134,9 +134,9 @@ export const translations = {
       scheduleConsultation: 'Agendar Consulta'
     },
     hero: {
-      title: 'Transforme la Confiabilidad de su Fábrica con',
-      titleHighlight: 'MAINTelligence',
-      subtitle: 'Implementación experta de rutas de Cuidado Básico del Operador que reducen el tiempo de inactividad, mejoran la confiabilidad del equipo y brindan ROI medible.',
+      title: 'Transforme la Confiabilidad de su Planta de Papel con',
+      titleHighlight: 'On the Go Maintenance',
+      subtitle: 'Implementación experta de rutas de Cuidado Básico del Operador con informes automatizados y paneles en tiempo real que reducen el tiempo de inactividad y mejoran la confiabilidad.',
       ctaPrimary: 'Agendar Consulta',
       ctaSecondary: 'Ver Casos de Estudio'
     },
@@ -156,7 +156,7 @@ export const translations = {
       keyPoint4: 'Información basada en datos para mejora continua'
     },
     benefits: {
-      title: 'Beneficios Clave de la Implementación de MAINTelligence',
+      title: 'Beneficios Clave de la Implementación de On the Go Maintenance',
       benefit1Title: 'Menor Tiempo de Inactividad',
       benefit1Desc: 'La detección temprana previene fallas catastróficas y paradas no planificadas',
       benefit2Title: 'Confiabilidad Mejorada',
@@ -242,7 +242,7 @@ export const translations = {
       newsletterDesc: 'Reciba información sobre mantenimiento de confiabilidad',
       newsletterPlaceholder: 'Ingrese su correo',
       subscribe: 'Suscribirse',
-      copyright: '© 2024 MAINTelligence. Todos los derechos reservados.'
+      copyright: '© 2024 On the Go Maintenance. Todos los derechos reservados.'
     }
   },
   de: {
@@ -256,9 +256,9 @@ export const translations = {
       scheduleConsultation: 'Beratung Vereinbaren'
     },
     hero: {
-      title: 'Transformieren Sie die Zuverlässigkeit Ihrer Fabrik mit',
-      titleHighlight: 'MAINTelligence',
-      subtitle: 'Fachkundige Implementierung von Operator Basic Care-Routen, die Ausfallzeiten reduzieren, Gerätezuverlässigkeit verbessern und messbaren ROI liefern.',
+      title: 'Transformieren Sie die Zuverlässigkeit Ihrer Papierfabrik mit',
+      titleHighlight: 'On the Go Maintenance',
+      subtitle: 'Fachkundige Implementierung von Operator Basic Care-Routen mit automatisierten Berichten und Echtzeit-Dashboards, die Ausfallzeiten reduzieren und Zuverlässigkeit verbessern.',
       ctaPrimary: 'Beratung Vereinbaren',
       ctaSecondary: 'Fallstudien Ansehen'
     },
@@ -278,7 +278,7 @@ export const translations = {
       keyPoint4: 'Datengestützte Erkenntnisse für kontinuierliche Verbesserung'
     },
     benefits: {
-      title: 'Hauptvorteile der MAINTelligence-Implementierung',
+      title: 'Hauptvorteile der On the Go Maintenance-Implementierung',
       benefit1Title: 'Reduzierte Ausfallzeit',
       benefit1Desc: 'Früherkennung verhindert katastrophale Ausfälle und ungeplante Stillstände',
       benefit2Title: 'Verbesserte Zuverlässigkeit',
@@ -364,7 +364,7 @@ export const translations = {
       newsletterDesc: 'Erhalten Sie Einblicke in Zuverlässigkeitswartung',
       newsletterPlaceholder: 'E-Mail eingeben',
       subscribe: 'Abonnieren',
-      copyright: '© 2024 MAINTelligence. Alle Rechte vorbehalten.'
+      copyright: '© 2024 On the Go Maintenance. Alle Rechte vorbehalten.'
     }
   },
   zh: {
@@ -378,9 +378,9 @@ export const translations = {
       scheduleConsultation: '预约咨询'
     },
     hero: {
-      title: '通过以下方式改变工厂可靠性',
-      titleHighlight: 'MAINTelligence',
-      subtitle: '专业实施操作员基本护理路线，减少停机时间，提高设备可靠性，并为制造运营提供可衡量的投资回报率。',
+      title: '通过以下方式改变造纸厂可靠性',
+      titleHighlight: 'On the Go Maintenance',
+      subtitle: '专业实施操作员基本护理路线，具有自动化报告和实时仪表板，可减少停机时间，提高设备可靠性。',
       ctaPrimary: '预约咨询',
       ctaSecondary: '查看案例研究'
     },
@@ -400,7 +400,7 @@ export const translations = {
       keyPoint4: '基于数据的持续改进洞察'
     },
     benefits: {
-      title: 'MAINTelligence实施的主要优势',
+      title: 'On the Go Maintenance实施的主要优势',
       benefit1Title: '减少停机时间',
       benefit1Desc: '早期检测可防止灾难性故障和计划外停机',
       benefit2Title: '提高可靠性',
@@ -486,7 +486,7 @@ export const translations = {
       newsletterDesc: '获取有关可靠性维护的见解',
       newsletterPlaceholder: '输入您的电子邮件',
       subscribe: '订阅',
-      copyright: '© 2024 MAINTelligence. 保留所有权利。'
+      copyright: '© 2024 On the Go Maintenance. 保留所有权利。'
     }
   }
 };

@@ -1,4 +1,4 @@
-import { TrendingDown, Shield, DollarSign, Smartphone, Users, FileCheck } from 'lucide-react';
+import { TrendingDown, BarChart3, CheckCircle2, MessageSquare, LayoutDashboard, DollarSign } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardDescription } from '@/components/ui/card';
 import { useLanguage } from '@/contexts/LanguageContext';
 
@@ -12,27 +12,27 @@ export function BenefitsSection() {
       description: t.benefits.benefit1Desc
     },
     {
-      icon: Shield,
+      icon: BarChart3,
       title: t.benefits.benefit2Title,
       description: t.benefits.benefit2Desc
     },
     {
-      icon: DollarSign,
+      icon: CheckCircle2,
       title: t.benefits.benefit3Title,
       description: t.benefits.benefit3Desc
     },
     {
-      icon: Smartphone,
+      icon: MessageSquare,
       title: t.benefits.benefit4Title,
       description: t.benefits.benefit4Desc
     },
     {
-      icon: Users,
+      icon: LayoutDashboard,
       title: t.benefits.benefit5Title,
       description: t.benefits.benefit5Desc
     },
     {
-      icon: FileCheck,
+      icon: DollarSign,
       title: t.benefits.benefit6Title,
       description: t.benefits.benefit6Desc
     }

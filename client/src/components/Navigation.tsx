@@ -46,7 +46,7 @@ export function Navigation() {
             className="text-xl font-bold tracking-tight hover-elevate active-elevate-2 px-2 py-1 rounded-md"
             data-testid="button-logo"
           >
-            MAINT<span className="text-primary">elligence</span>
+            On the Go <span className="text-primary">Maintenance</span>
           </button>
 
           <div className="hidden md:flex items-center gap-1">

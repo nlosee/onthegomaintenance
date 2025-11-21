@@ -1,6 +1,6 @@
 import { CheckCircle } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
-import obcImage from '@assets/generated_images/technician_using_digital_maintenance_checklist.png';
+import obcImage from '@assets/generated_images/digital_maintenance_checklist_in_paper_mill.png';
 
 export function OBCSection() {
   const { t } = useLanguage();

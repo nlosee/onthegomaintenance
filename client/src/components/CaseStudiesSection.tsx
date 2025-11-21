@@ -2,7 +2,7 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter }
 import { Button } from '@/components/ui/button';
 import { Quote } from 'lucide-react';
 import { useLanguage } from '@/contexts/LanguageContext';
-import caseStudyImage from '@assets/generated_images/industrial_facility_with_digital_maintenance.png';
+import caseStudyImage from '@assets/generated_images/pulp_mill_equipment_inspection.png';
 
 export function CaseStudiesSection() {
   const { t } = useLanguage();
