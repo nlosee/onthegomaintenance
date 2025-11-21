@@ -43,10 +43,14 @@ export function Navigation() {
         <div className="flex items-center justify-between h-16">
           <button
             onClick={() => scrollToSection('hero')}
-            className="text-xl font-bold tracking-tight hover-elevate active-elevate-2 px-2 py-1 rounded-md"
+            className="hover-elevate active-elevate-2 px-2 py-1 rounded-md"
             data-testid="button-logo"
           >
-            On the Go <span className="text-primary">Maintenance</span>
+            <img 
+              src="/attached_assets/unnamed_1763686118083.png" 
+              alt="On the Go Maintenance" 
+              className="h-10 w-auto"
+            />
           </button>
 
           <div className="hidden md:flex items-center gap-1">

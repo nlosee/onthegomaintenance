@@ -109,6 +109,25 @@ Subtle diagonal lines or geometric patterns in section backgrounds to add indust
 
 ---
 
+## Color Palette
+
+**Brand Colors from Logo**:
+The color scheme is derived from the On the Go Maintenance logo gradient:
+- **Primary Cyan**: HSL(180, 45%, 55%) - Main brand color from logo's turquoise section
+- **Mint Green**: HSL(140, 50%, 65%) - Secondary accent from logo's green gradient
+- **Lavender Blue**: HSL(220, 50%, 70%) - Tertiary accent from logo's blue gradient
+
+**Usage Guidelines**:
+- Primary Cyan: CTAs, key actions, links, and primary brand elements
+- Lavender Blue: Secondary buttons and complementary UI elements  
+- Mint Green: Success states, highlights, and accent decorations
+- Neutral Grays: Backgrounds, text, borders for professional industrial aesthetic
+
+**Dark Mode**:
+All colors automatically adjust for dark mode with increased brightness and saturation for better contrast.
+
+---
+
 ## Key Page Sections (In Order)
 
 1. **Hero**: Large image, value proposition, dual CTAs
