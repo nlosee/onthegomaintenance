@@ -47,7 +47,7 @@ export function Navigation() {
             data-testid="button-logo"
           >
             <img 
-              src="/attached_assets/unnamed_1763686118083.png" 
+              src="/public.favicon.png" 
               alt="On the Go Maintenance" 
               className="h-10 w-auto"
             />
