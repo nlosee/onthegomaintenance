@@ -43,11 +43,13 @@ export function Navigation() {
         <div className="flex items-center justify-between h-16">
           <button
             onClick={() => scrollToSection('hero')}
-            className="hover-elevate active-elevate-2 px-2 py-1 rounded-md"
+            className={`hover-elevate active-elevate-2 px-2 py-1 rounded-md transition-colors ${
+                      !isScrolled ? "text-white hover:text-white/90" : ""
+                      }`}
             data-testid="button-logo"
           >
             <img 
-              src="/public.favicon.png" 
+              src="/favicon.png" 
               alt="On the Go Maintenance" 
               className="h-10 w-auto"
             />
@@ -59,6 +61,7 @@ export function Navigation() {
                 key={link.id}
                 variant="ghost"
                 onClick={() => scrollToSection(link.id)}
+                className={!isScrolled ? "bg-white text-black hover:bg-white/90" : ""}
                 data-testid={`link-${link.id}`}
               >
                 {link.label}
@@ -70,6 +73,7 @@ export function Navigation() {
             <div className="hidden md:block">
               <Button
                 onClick={() => scrollToSection('contact')}
+                className={!isScrolled ? "bg-white text-black hover:bg-white/90" : ""}
                 data-testid="button-schedule-consultation-nav"
               >
                 {t.nav.scheduleConsultation}
@@ -80,7 +84,7 @@ export function Navigation() {
             <Button
               variant="ghost"
               size="icon"
-              className="md:hidden"
+              className={`md:hidden ${!isScrolled ? "text-white" : ""}`}
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
               data-testid="button-mobile-menu"
             >
