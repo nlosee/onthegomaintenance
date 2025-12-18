@@ -69,9 +69,9 @@ export const translations = {
     },
     caseStudies: {
       title: 'Proven Results in Paper & Pulp Mills',
-      case1Industry: 'Kraft Paper Mill',
-      case1Challenge: 'Poor route adherence and communication gaps between shifts on paper machines',
-      case1Solution: 'Implemented OBC routes with automated reporting dashboards and mobile checklists across all production lines',
+      case1Industry: 'Kraft Pulp Mill',
+      case1Challenge: 'Poor route adherence and communication gaps between shifts on MKP Digesters',
+      case1Solution: 'Implemented OBC routes with automated reporting dashboards and mobile checklists across all crews',
       case1Result: '85% increase in route compliance, 52% reduction in unplanned downtime, improved cross-shift communication',
       case1Quote: 'On the Go Maintenance transformed how our operators track and communicate equipment issues. The automated reports give us complete visibility.',
       case1Author: 'Maintenance Manager, Major Kraft Paper Producer',
@@ -100,9 +100,9 @@ export const translations = {
       messagePlaceholder: 'Describe your current maintenance challenges, compliance needs, and goals...',
       submitButton: 'Request Consultation',
       infoTitle: 'Contact Information',
-      infoEmail: 'info@onthegomaintenance.com',
-      infoPhone: '+1 (800) 555-0100',
-      infoHours: 'Monday - Friday, 8am - 6pm EST'
+      infoEmail: 'nicklosee@onthegomaintenance.com',
+      infoPhone: '(541) 635-2237',
+      infoHours: 'Monday - Friday, 8am - 6pm PST'
     },
     footer: {
       company: 'Company',
@@ -120,7 +120,7 @@ export const translations = {
       newsletterDesc: 'Get insights on reliability maintenance',
       newsletterPlaceholder: 'Enter your email',
       subscribe: 'Subscribe',
-      copyright: '© 2024 On the Go Maintenance. All rights reserved.'
+      copyright: '© 2026 On the Go Maintenance. All rights reserved.'
     }
   },
   es: {
